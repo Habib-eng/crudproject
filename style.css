@@ -1,0 +1,27 @@
+.col-md-7{
+    width:100% !important;
+    position: relative !important;
+}
+.mb-3{
+    text-align: center !important;
+}
+.article{
+    height:20rem !important;
+}
+.alert{
+    display:block !important;
+    position: absolute !important;
+}
+.article textarea{
+    height: 90% !important;
+}
+footer .d-flex{
+    font-size: 1.5rem;
+    color: rosybrown !important;
+}
+.text-muted i:hover{
+    color: rgb(162, 170, 182);
+}
+.col-md-6 {
+    padding: 0% 0% !important;
+}
